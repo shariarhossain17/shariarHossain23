@@ -17,9 +17,11 @@ Skills: HTML / CSS/ JS / /REACT
 
 ![Profile views](https://gpvc.arturio.dev/shariarHossain23)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/shariarHossain23)  
