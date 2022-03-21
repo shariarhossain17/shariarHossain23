@@ -8,7 +8,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -67,6 +66,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
     />
   </a>
 </p>
+
+
 
 
 
