@@ -75,7 +75,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <a href="https://github.com/shariarHossain23" target="blank"
     ><img
       align="center"
-      src="https://editor.analyticsvidhya.com/uploads/765900ba9-article-200807-github-gitguardbody-text.jpg"
+      src="https://pngimg.com/uploads/github/github_PNG34.png"
       alt="shariarHossain23"
       height="30"
       width="40"
