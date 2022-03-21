@@ -131,4 +131,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shariarHossain23)  
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariarhossain23&show_icons=true&locale=en&layout=compact" alt="shariarhossain23" /></p>
+
+
 
