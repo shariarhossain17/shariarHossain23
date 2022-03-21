@@ -24,6 +24,6 @@ Skills: HTML / CSS/ JS / /REACT
 
 ![GitHub metrics](https://metrics.lecoq.io/shariarHossain23)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shariarHossain23)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23=true&theme=radical)
 
 ![Profile views](https://gpvc.arturio.dev/shariarHossain23)  
