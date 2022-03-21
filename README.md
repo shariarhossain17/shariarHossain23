@@ -19,8 +19,7 @@ Skills: HTML / CSS/ JS / /REACT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain23)](https://github.com/anuraghazra/github-readme-stats 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain23)]
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shariarHossain23)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shariarHossain23)  
