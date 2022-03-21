@@ -71,6 +71,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
+- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React js
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -112,7 +116,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-- 🌱 I’m currently learning Js and react 
+
 
 
 
