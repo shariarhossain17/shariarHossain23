@@ -15,6 +15,10 @@ Skills: HTML / CSS/ JS / /REACT
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
+![Profile views](https://gpvc.arturio.dev/shariarHossain23)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain23)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,6 +28,3 @@ Skills: HTML / CSS/ JS / /REACT
 
 ![GitHub metrics](https://metrics.lecoq.io/shariarHossain23)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
-
-![Profile views](https://gpvc.arturio.dev/shariarHossain23)  
