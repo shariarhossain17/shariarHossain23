@@ -1,8 +1,8 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5603AQEB6-zJqJqitw/profile-displayphoto-shrink_200_200/0/1639143699828?e=1653523200&v=beta&t=_A1BplKd-OMLqFbIqV-NUIYvPESqU5RjUgyxgyy7Phg)
+![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/shariarhossain17/overlay/background-image/)
 
 # Hi there 👋, 
 # I am Shariar
-## web developer
+## junior web developer
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
