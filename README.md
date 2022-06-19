@@ -1,10 +1,10 @@
-![](https://www.linkedin.com/in/shariarhossain17/overlay/background-image/ raw=true)
+![](https://www.linkedin.com/in/shariarhossain17/overlay/background-image/)
 # Hi there 👋, 
 # I am Shariar
 ## web developer
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 
 
@@ -71,7 +71,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 - 🌱 I’m currently learning typescript
-- 🌱 I’m currently learning React js
 
 
 
