@@ -1,4 +1,4 @@
-![alt](https://www.linkedin.com/in/shariarhossain17/overlay/background-image/)
+![](https://www.linkedin.com/in/shariarhossain17/overlay/background-image/ raw=true)
 # Hi there 👋, 
 # I am Shariar
 ## web developer
@@ -70,7 +70,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning typescript
 - 🌱 I’m currently learning React js
 
 
