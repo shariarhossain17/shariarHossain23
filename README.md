@@ -1,8 +1,8 @@
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/shariarhossain17/overlay/background-image/)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5603AQEB6-zJqJqitw/profile-displayphoto-shrink_200_200/0/1639143699828?e=1653523200&v=beta&t=_A1BplKd-OMLqFbIqV-NUIYvPESqU5RjUgyxgyy7Phg)
 
 # Hi there 👋, 
 # I am Shariar
-## junior web developer
+## web developer
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -122,7 +122,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-![Profile views](https://gpvc.arturio.dev/shariarHossain23)
+![Profile views](https://gpvc.arturio.dev/shariarHossain17)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -131,7 +131,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
 
 
-![GitHub metrics](https://metrics.lecoq.io/shariarHossain23)  
+![GitHub metrics](https://metrics.lecoq.io/shariarHossain17)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shariarHossain23)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shariarHossain17)  
 
