@@ -124,11 +124,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![Profile views](https://gpvc.arturio.dev/shariarHossain17)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarHossain17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain23&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariarHossain17&show_icons=true&theme=radical)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/shariarHossain17)  
